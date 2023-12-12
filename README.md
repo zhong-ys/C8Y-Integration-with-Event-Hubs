@@ -4,6 +4,7 @@
 
 # Introduction
 
+
 IoT solutions have the potential to improve various aspects of your business, like generating new revenue streams, enhancing efficiency, and optimizing the overall user experience. However, the current challenge lies in tailoring an IoT solution precisely to your business needs. The combination of Microsoft Azure and Cumulocity blends the strengths of both, enabling you to gain an optimal IoT solution that matches with your specific requirements.
 
 This article will guide you through the utilisation of the Cumulocity Notification 2.0 API and Azure Event Hubs to establish a connection between Microsoft Azure and Cumulocity IoT Platform. You will gain access to features from both platforms for your IoT solutions.
